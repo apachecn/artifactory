@@ -1,0 +1,10 @@
+{
+    "name": "PyTorch 自然语言处理（fix1）",
+    "url": "https://gitee.com/apachecn/apachecn-dl-zh/blob/master/docs/nlp-pytorch-zh/SUMMARY.md",
+    "link": ".markdown-body li a",
+    "title": ".markdown-body>h1",
+    "content": ".markdown-body",
+    "remove": "a.anchor",
+    "optiMode": "none",
+    "list": []
+}
