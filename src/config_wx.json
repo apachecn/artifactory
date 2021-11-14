@@ -1,0 +1,14 @@
+{
+    "name": "{title}",
+    "url": "http://mp.weixin.qq.com",
+    "link": ".summary .link, .summary li a",
+    "title": "#activity-name",
+    "content": "#js_content",
+    "remove": "",
+    "optiMode": "thres",
+	"external": "wx_external.py",
+	"retry": 3,
+	"list":[
+		"{links}"
+	]
+}
