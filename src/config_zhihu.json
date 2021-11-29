@@ -1,0 +1,11 @@
+{
+    "name": "{title}",
+    "url": "{url}",
+    "link": ".markdown-body li a",
+    "title": "h1.Post-Title, h1.QuestionHeader-title",
+    "content": ".Post-RichText, .RichContent-inner",
+    "remove": "noscript",
+    "optiMode": "quant",
+    "imgSrc": ["data-actualsrc", "src"],
+    "list": ["{url}"]
+}
