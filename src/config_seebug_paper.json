@@ -1,0 +1,13 @@
+{
+    "name": "Seebug Paper {yr}Q{season}",
+    "url": "https://paper.seebug.org/",
+    "link": ".sub-menu-items h3, .sub-menu-items dd a",
+    "title": "h1.post-title",
+    "content": "section.post-content",
+    "remove": "",
+    "retry": 3,
+    "optiMode": "quant",
+    "list": [
+"{urls}"
+    ]
+}
