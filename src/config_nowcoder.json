@@ -1,0 +1,13 @@
+{
+    "name": "牛客 {name} {styr}~{edyr}",
+    "url": "{url}",
+    "link": ".sub-menu-items h3, .sub-menu-items dd a",
+    "title": ".study-tit>h2",
+    "content": "article",
+    "remove": "",
+    "optiMode": "quant",
+    "headers": {
+        "Cookie": "{cookie}"
+    },
+    "list": []
+}
