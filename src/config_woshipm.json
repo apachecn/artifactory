@@ -1,0 +1,12 @@
+{
+    "name": "{title}",
+    "url": "http://www.woshipm.com/",
+    "link": "",
+    "title": "h2.article--title",
+    "content": ".article--content",
+    "remove": ".article--actions, .article-bottomAd, .pm-adTitle, .support-author",
+    "optiMode": "thres",
+    "list": [
+        "{url}"
+    ]
+}
