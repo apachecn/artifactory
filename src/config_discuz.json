@@ -1,0 +1,17 @@
+{
+    "name": "{name}", 
+    "url": "{url}", 
+    "link": ".toctree-wrapper li a", 
+    "title": "h1.ts", 
+    "content": "#postlist>div:first-of-type .t_f, #postlist>div:first-of-type .tattl>dd>.savephotop", 
+    "credit": true, 
+    "remove": "", 
+    "optiMode": "quant", 
+    "imgSrc": [
+        "file", 
+        "src"
+    ], 
+    "list": [ 
+        "{page}"
+    ]
+}
