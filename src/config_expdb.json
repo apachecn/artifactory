@@ -1,0 +1,9 @@
+{ 
+"name": "ExpDB Test", 
+"url": "https://www.exploit-db.com", 
+"optiMode": "quant", 
+"external": "expdb_external.py", 
+"list": [
+"https://www.exploit-db.com/exploits/50858"
+] 
+}
