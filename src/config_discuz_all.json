@@ -1,0 +1,17 @@
+{
+    "name": "{name}", 
+    "url": "{url}", 
+    "link": ".toctree-wrapper li a", 
+    "title": "h1.ts", 
+    "content": "td[id^=postmessage], .pattl", 
+    "credit": true, 
+    "remove": "", 
+    "optiMode": "quant", 
+    "imgSrc": [
+        "file", 
+        "src"
+    ], 
+    "list": [ 
+        "{page}"
+    ]
+}
