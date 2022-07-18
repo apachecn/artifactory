@@ -1,0 +1,12 @@
+{ 
+"name": "{title}", 
+"url": "{url}", 
+"link": ".link_14 dd a", 
+"title": ".article-title", 
+"content": ".J-articleContent", 
+"remove": "",
+"external": "yunjia_external.py",
+"optiMode": "quant", 
+"list": [
+"{url}"
+] }
