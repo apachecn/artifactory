@@ -1,0 +1,11 @@
+{
+    "name": "LifeHacker",
+    "url": "https://lifehacker.com/",
+    "link": ".table a",
+	"title": "header>h1",
+	"content": "div.js_post-content",
+	"remove": "div.js_newsletter-form-inline, script, ins, div.sc-1atgi65-0, div.advertisement, div.video-html5-info, div.video-controls, div.btn-play, div.movable-ad, div.ad-mobile, div.video-html5-thumbs, .js_header-anchor, figure",
+	"list":[
+"{url}"
+	]
+}
