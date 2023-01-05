@@ -1,0 +1,16 @@
+{ 
+"name": "{title}", 
+"url": "https://www.yuque.com/", 
+"link": ".link_14 dd a", 
+"title": "h1#article-title", 
+"content": ".ne-viewer-body", 
+"remove": "",
+"optiMode": "quant", 
+"selenium": true, 
+"waitContent": 10,
+"headers": {
+"Cookie": "{cookie}"
+},
+"list": [
+"{url}"
+] }
