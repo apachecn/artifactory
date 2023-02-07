@@ -6,6 +6,7 @@
 "content": ".ne-viewer-body", 
 "remove": "",
 "optiMode": "quant", 
+"remove": "button",
 "selenium": true, 
 "waitContent": 10,
 "headers": {
