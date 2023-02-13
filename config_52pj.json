@@ -1,0 +1,27 @@
+{
+    "name": "{title}", 
+    "url": "https://www.52pojie.cn/forum-5-1.html", 
+    "link": ".toctree-wrapper li a", 
+    "title": "h1.ts", 
+    "content": "#postlist>div:first-of-type .t_f, #postlist>div:first-of-type .tattl>dd>.savephotop", 
+    "credit": true, 
+    "remove": "", 
+    "optiMode": "quant", 
+    "encoding": "gbk",
+	"textThreads": 1,
+	"imgThreads": 1,
+	"retry": 10,
+	"wait": 1,
+	"checkStatus": true,
+	"headers": {
+		"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+		"Cookie": "{cookie}"
+	},
+    "imgSrc": [
+        "file", 
+        "src"
+    ], 
+    "list": [ 
+"{url}"
+    ]
+}
