@@ -3,9 +3,10 @@
     "url": "{url}",
     "link": "",
 	"title": "h1.pw-post-title",
-	"content": "div.hb.hc.hd.he.hf",
+	"content": "section",
 	"remove": "",
 	"retry": 10,
+	"external": "medium_external.py",
 	"list":[
 "{link}"
 	]
