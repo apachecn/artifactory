@@ -1,0 +1,12 @@
+{
+    "name": "{name}",
+    "url": "{url}",
+    "link": "",
+	"title": "h1.pw-post-title",
+	"content": "div.hb.hc.hd.he.hf",
+	"remove": "",
+	"retry": 10,
+	"list":[
+"{link}"
+	]
+}
