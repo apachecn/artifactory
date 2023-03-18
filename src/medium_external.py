@@ -13,7 +13,12 @@ def get_article(html, url):
         el_img.attr('src', src)
         el.replace_with(el_img)
         
+    el_title = rt(config['title']).eq(0)
+    title = el_title.text().strip()
+    el_title.remove()
+    cont = f'<blockquote>原文：<a href="{url}">{url}</a></blockquote>' + \
+           rt(config['content']).html()
     return {
-        'title': rt(config['title']).eq(0).text().strip(),
-        'content': f'<blockquote>原文：<a href="{url}">{url}</a></blockquote>' + rt(config['content']).html(),
+        'title': title,
+        'content': cont,
     }
